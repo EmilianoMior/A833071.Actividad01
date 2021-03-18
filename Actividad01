@@ -1,0 +1,12 @@
+namespace A833071.Actividad01
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hola mundo!");
+            Console.WriteLine("Presione Enter para salir...");
+            Console.ReadLine();
+        }
+    }
+}
